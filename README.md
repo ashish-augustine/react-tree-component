@@ -23,41 +23,10 @@ Upon clicking each folder / node, that name is displayed in the right pane.
 
 2. Choice of libraries
 
-While working on this project, my choices were
-
-React Arborist Library
-
-RC-Tree Library
-
-React D3 Tree Component
-
-React Material UI (MUI)
-
-Out of the above libraries, I have chosen React Arborist Library.
+While working on this project,  I have chosen React Arborist Library.
 
 
-
-
-3. Pros of Arborist Library
-
-The reason why I opted for the Arborist library is because, with the other libraries, it was not possible to get all the features listed below with a single library. 
-
-
-Possible to drag and drop one / multiple nodes into new positions. 
-
-Enable virtual scrolling
-
-Possible to drag and scroll
-
-Render an inline form for renaming
-
-Efficiently handle big datasets
-
-Provide our own node renderer to control the style 
-
-
-
-
+ 
 
 
 
