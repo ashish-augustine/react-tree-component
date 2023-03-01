@@ -1,4 +1,4 @@
-import { NodeRendererProps, Tree } from "react-arborist";
+import { Tree } from "react-arborist";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCarSide,
@@ -6,7 +6,6 @@ import {
   faCirclePlus,
   faCircleMinus,
 } from "@fortawesome/free-solid-svg-icons";
-import { useEffect, useRef } from "react";
 
 let iconMap = {
   folder: faFolder,
