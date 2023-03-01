@@ -4,7 +4,9 @@ Ashish Augustine
 
 # Live Demo: [ https://main--startling-valkyrie-3d25d7.netlify.app/](https://main--startling-valkyrie-3d25d7.netlify.app/).
 
-![Alt text](/Users/ashishaugustine/Desktop/Screenshot 2023-03-01 at 7.44.34 PM.png?raw=true "Title")
+
+![Screenshot 2023-03-01 at 7 44 34 PM](https://user-images.githubusercontent.com/2153396/222262617-f8f3da97-d034-4916-9e82-811074eac7a4.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
