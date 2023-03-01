@@ -55,8 +55,7 @@ function Node({ node, style, dragHandle, onNodeClick }) {
         marginLeft: "5px",
       }}
       ref={dragHandle}
-      onClick={clickHandler}
-    >
+      onClick={clickHandler}>
       {node.isLeaf ? null : (
         <FontAwesomeIcon
           color={node.isOpen ? "#C1C3C5" : "#96989A"}
@@ -71,30 +70,23 @@ function Node({ node, style, dragHandle, onNodeClick }) {
 }
 
 export default function FolderTree({ data, onItemSelected }) {
-  // let tree = useRef();
-
-  // useEffect(() => {
-  //   console.log(tree);
-  // }, []);
-  
   return (
-    <div style={{display: "flex", flexDirection:"column"}}>
-    <h2 style={{marginTop: "1%", marginLeft: "1%"}}>Data Objects</h2>
-    <Tree
-      // ref={tree}
+    <div style={{ display: "flex", flexDirection: "column" }}>
+      <h2 style={{ marginTop: "1%", marginLeft: "1%" }}>Data Objects</h2>
+      <Tree
+        // ref={tree}
 
-      initialData={data}
-      openByDefault={false}
-      width={600}
-      height={600}
-      indent={24}
-      rowHeight={36}
-      paddingTop={30}
-      paddingBottom={10}
-      padding={25 /* sets both */}
-    >
-      {(params) => Node({ ...params, onNodeClick: onItemSelected })}
-    </Tree>
+        initialData={data}
+        openByDefault={false}
+        width={600}
+        height={600}
+        indent={24}
+        rowHeight={36}
+        paddingTop={30}
+        paddingBottom={10}
+        padding={25 /* sets both */}>
+        {(params) => Node({ ...params, onNodeClick: onItemSelected })}
+      </Tree>
     </div>
   );
 }
