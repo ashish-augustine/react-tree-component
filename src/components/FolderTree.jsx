@@ -38,7 +38,7 @@ function getIconComponent(node) {
 }
 
 function Node({ node, style, dragHandle, onNodeClick }) {
-  /* This node instance can do many things. See the API reference. */
+  /* API reference */
 
   function clickHandler() {
     node.toggle();
