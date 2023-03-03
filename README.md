@@ -1,4 +1,4 @@
-# Pimcore - Tree Component
+# Tree Component
 
 Ashish Augustine
 
