@@ -26,7 +26,25 @@ Upon clicking each folder / node, that name is displayed in the right pane.
 
 2. Choice of libraries
 
-While working on this project,  I have chosen React Arborist Library.
+While working on this project, the choice of libraries which I had was 
+
+React dnd
+React beautiful dnd 
+RC-Tree Library
+React D3 Tree Component
+React Material UI (MUI)
+React Arborist Library
+
+
+Amongst those, I have chosen React Arborist Library, because
+
+This library provides all the common features expected in a tree. 
+You can select one or many nodes to drag and drop into new positions,
+Open and close folders, 
+Render an inline form for renaming, 
+Efficiently show thousands of items, and 
+Provide your own node renderer to control the style.
+
 
 
  
