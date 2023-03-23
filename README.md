@@ -11,13 +11,13 @@ Ashish Augustine
 
 
 
-1. Working of the demo app
+1. Flow of the demo app
 
-From a ‘Parent Folder’, we can navigate to the ‘Sub-Folders’ and then when the sub-folders are finished,  a ‘Grey Car Icon’ is shown. 
-When the grey car icon is opened, then comes the ‘Color Car Icons’ which is basically the end node of that branch. 
-Also, the items are drag & droppable. 
-The end node is coloured. 
-Upon clicking each folder / node, that name is displayed in the right pane. 
+From a ‘Parent Folder’, we can navigate to the ‘Sub-Folders’ and then when the sub-folders are finished,  a ‘Grey Car Icon’ is shown. <br/>
+When the grey car icon is opened, then comes the ‘Color Car Icons’ which is basically the end node of that branch. <br/>
+Also, the items are drag & droppable. <br/>
+The fnal node is coloured once reaching it's end leaf. <br/>
+Upon clicking each folder / node, that name is displayed in the right pane. <br/>
 [NB: In this project, I have used a dummy array with some random values for naming the folders and its sub folders, except for the first folder. ]
 
 
