@@ -32,10 +32,10 @@ React beautiful dnd <br />
 RC-Tree Library<br />
 React D3 Tree Component<br />
 React Material UI (MUI)<br />
-React Arborist Library<br />
+React Arborist Library<br /><br /><br />
 
 
-## Reasons for choosing React Arborist Library: <br />
+## Reasons for choosing React Arborist Library! <br />
 
 Personally, I have tested this React Arborist Library for Tree Component with thousands of data and the library is working just fine & stable which makes it absolutely the perfect choice!!<br /><br />
 
@@ -46,9 +46,9 @@ You can select one or many nodes to drag and drop into new positions,<br />
 Open and close folders, <br />
 Render an inline form for renaming, <br />
 Efficiently show thousands of items, <br />
-Provide your own node renderer to control the style.<br /><br />
+Provide our own node renderer to control the style.<br /><br />
  
-
+<br />
 
 
  
