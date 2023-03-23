@@ -32,12 +32,12 @@ React beautiful dnd <br />
 RC-Tree Library<br />
 React D3 Tree Component<br />
 React Material UI (MUI)<br />
-React Arborist Library<br /><br /><br />
+React Arborist Library<br /><br /><br /><br />
 
 
 ## Reasons for choosing React Arborist Library! <br />
 
-Personally, I have tested this React Arborist Library for Tree Component with thousands of data and the library is working just fine & stable which makes it absolutely the perfect choice!!<br /><br />
+Personally, I have tested this React Arborist Library for Tree Component with thousands of data and the library is working just fine & stable which makes it absolutely the perfect choice!!<br />
 
 Apart from this, the other features of the library are:
 
