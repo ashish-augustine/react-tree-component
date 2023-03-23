@@ -37,7 +37,7 @@ React Arborist Library<br /><br /><br /><br /><br />
 
 ## Reasons for choosing React Arborist Library! <br />
 
-Personally, I have tested the React Arborist Library for Tree Component with thousands of data and the library is working just smooth & stable which makes it an absolutely perfect choice!!<br /><br />
+Personally, I have tested the React Arborist Library for Tree Component with thousands of data and the library is working just smooth & stable which makes it an absolutely perfect choice!<br /><br />
 
 Apart from this, the other features of the library are:
 
