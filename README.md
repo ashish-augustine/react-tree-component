@@ -41,8 +41,9 @@ This library provides all the common features expected in a tree. <br />
 You can select one or many nodes to drag and drop into new positions,<br />
 Open and close folders, <br />
 Render an inline form for renaming, <br />
-Efficiently show thousands of items, and <br />
-Provide your own node renderer to control the style.
+Efficiently show thousands of items, <br />
+Provide your own node renderer to control the style.<br /><br />
+Most importantly, tested the React Arborist Library for Tree Component with thousands of data and the library is working just fine & stable which makes it absolutely the perfect choice!!
 
 
 
