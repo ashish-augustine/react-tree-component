@@ -44,7 +44,6 @@ And the main features of this library are:
 This library provides all the common features expected in a tree. <br />
 Can select one or more nodes to drag and drop into new positions,<br />
 Open and close folders, <br />
-Render an inline form for renaming, <br />
 Efficiently show thousands of items, <br />
 Provide our own node renderer to control the style.<br /><br />
  
