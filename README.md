@@ -1,4 +1,4 @@
-# Tree Component 
+# Drag & Droppable Tree Component 
 
  # [Live Demo - Tree Component](https://main--startling-valkyrie-3d25d7.netlify.app/)     
 ![Screenshot 2023-04-13 at 3 23 51 PM](https://user-images.githubusercontent.com/2153396/231772417-75a7bc04-9501-4e8b-a1a5-8d41ffef98fa.png)
