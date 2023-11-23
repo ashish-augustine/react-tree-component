@@ -3,7 +3,7 @@ import FolderTree from "./components/FolderTree";
 import RightPane from "./components/RightPane";
 import "./App.css";
 import { useState } from "react";
-
+ 
 export default function App() {
   function onItemSelected(node) {
     console.log(node);
