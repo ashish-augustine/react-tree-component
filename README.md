@@ -1,6 +1,6 @@
 # Drag & Drop Tree Component  
 
-Implementing a drag-and-drop functionality for tree component in React. Arborist Library is used here, which works well with tree structures. This complex react tree provides advanced drag-and-drop capabilities smoothly, enables toggling of different directories (nodes) & their sub-directories. 
+This project demonstrates a drag-and-drop functionality for tree component in React. Arborist Library is used here, which works well with tree structures. This complex react tree provides advanced drag-and-drop capabilities smoothly, enables toggling of different directories (nodes) & their sub-directories. 
 This tree component can easily handle millions of data.
 
 
