@@ -1,6 +1,6 @@
 # Drag & Drop Tree Component  
 
-This is a React tree component depicting advanced drag-and-drop capabilities, enables toggling of different nodes (folders) & their sub nodes (sub folders). React Arborist Library is used here. 
+This is a React tree component depicting advanced drag-and-drop capabilities, enables toggling of different nodes (folders) & their sub nodes (sub folders). Arborist Library is used here. 
 This component can easily handle millions of data.
 
 
